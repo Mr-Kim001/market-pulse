@@ -1,6 +1,6 @@
 {
   "mode": "hourly_public_data",
-  "data_updated_at": "2026-11-15T02:42:32.815705+09:00",
+  "data_updated_at": "2026-11-15T03:49:56.082788+09:00",
   "market": [
     {
       "id": "UST2Y",
@@ -10,7 +10,7 @@
       "change": 0.02,
       "change_unit": "pp",
       "as_of": "2026-11-13",
-      "fetched_at": "2026-11-15T02:42:32.815705+09:00",
+      "fetched_at": "2026-11-15T03:49:56.082788+09:00",
       "price_type": "official_daily_par_yield",
       "source": "U.S. Department of the Treasury",
       "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve",
@@ -24,7 +24,7 @@
       "change": 0.05,
       "change_unit": "pp",
       "as_of": "2026-11-13",
-      "fetched_at": "2026-11-15T02:42:32.815705+09:00",
+      "fetched_at": "2026-11-15T03:49:56.082788+09:00",
       "price_type": "official_daily_par_yield",
       "source": "U.S. Department of the Treasury",
       "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve",
@@ -127,24 +127,24 @@
         "id": "stocks_us-4"
       },
       {
-        "title": "[뉴욕증시 주간] 3대 지수 2%대 동반 상승…엔비디아는 CEO 사임에 13% 가까이 급락",
-        "publisher": "더페어",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCYlAxOHgtSVZpM0Zaa2tQRl9UZ0N4Y05Vd0NhZkczcm15cnNrTG4zNHgtMnRjdHNDVXF2SDRXZmU4ZzlUMkl2UFJIZ0NxNk1Od0lRaDAxWFQxRWZXcXZPUFRFakE4MUJtYnlLMUJYcUbSAXRBVV95cUxObVdKcWJyaVJoQ21FNGJxQnYtVmtrcjhFVEdpT1QycGRwbTFmNzNjek54WlJaTlJFcXJRLWZVWXJwNWlsbzBOalk0SEpEU3U4MWowREcwaWhCTWkxd0hHcmo2aE1xS3oxWkRJZjJQZldhZFk4VQ?oc=5",
-        "published_at": "2026-11-13T23:22:16+00:00",
-        "id": "stocks_us-5"
-      },
-      {
         "title": "뉴욕증시, 엔비디아發 반도체주 급락…나스닥 0.91% 하락",
         "publisher": "산경투데이",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WMS0wYlItYzZYZGFQcmg0UEw0MlZXOWFkZFZSUHg2R1dxd3FPekdLYnp4S2VobS1ncE9RbldPbU5pUzhaVEJ6NDlOQ3BDSlg1Q0hrUW1IZWcyME5HSFZob2d0dVlhd3BHZkI1TUhPa0vSAXRBVV95cUxNV2lQRXU5YkFLV3cwZGE0OFJyRmZYV3g2QUVWV19Gbl9SLVd2bVlDa0tQZ3NwbFFReGJqNkl0MmNZN0R3Vm80a0R2ZDFWZUNXZGNIQjY3aFVQRDhsOU1lcTdWNWdQbC1SMjVHOWdqS2daWE9mZg?oc=5",
         "published_at": "2026-11-13T23:15:03+00:00",
-        "id": "stocks_us-6"
+        "id": "stocks_us-5"
       },
       {
         "title": "[속보]뉴욕증시 혼조 마감…다우 상승에도 나스닥 0.91% 하락, 엔비디아 충격 기술주 확산",
         "publisher": "CBC뉴스",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fUkNsM0xQQzl3elJ4aG1wTHpFZmxocVc3VUJHTlpzSTR1NWJVVWk1Nk8xYUpoMUtLNFpDOE8tbU1zc0d0dHlLSHBWQU1lZUNwXzE5Vk4zMmU0bnlUdlFsYThFSG4wR0Uz?oc=5",
         "published_at": "2026-11-13T23:05:00+00:00",
+        "id": "stocks_us-6"
+      },
+      {
+        "title": "미국증시, 엔비디아 충격에 나스닥 0.91% 하락…반도체 매도세 확산·다우 강보합",
+        "publisher": "톱스타뉴스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEUVp1MC1sY05rSjBWOUxPWDFtSzc3UnBXaDJoUDJ0c2Y0ck5YZXA1UkNaLWVXeEJOb3ZMTjlrQkRlZ0pVVHdjV01rS2toMGhXVTJ2WHJoYkl5U3lPZTVUSzlLVG5TQjRJb3l6XzdWcW1DUQ?oc=5",
+        "published_at": "2026-11-13T23:02:06+00:00",
         "id": "stocks_us-7"
       }
     ],
